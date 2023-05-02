@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://th.bing.com/th/id/OIP.TduvUUROoSnfdT5LgGAFUQHaHJ?pid=ImgDet&w=1140&h=1100&rs=1)
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
 <h3 align="center">A Database admin who is also interested in Data Science and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif">
